@@ -1,4 +1,4 @@
-## Welcome to my Profile
+## About this plugin
 
 Welcome to https://quickdesigner.github.io/
 
